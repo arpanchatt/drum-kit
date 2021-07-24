@@ -1,1 +1,6 @@
-# drum-kit
+# DRUM KIT 🥁
+## Description
+This is a simple HTML, CSS and Javascript based webpage to exemplify the Document Object Model(DOM). The user will be able to play different sounds upon clicking of dfferent buttons.
+## Working
+When the user clicks or presses on the button a key mapped with different drums associated with images, different sounds will be played.
+
